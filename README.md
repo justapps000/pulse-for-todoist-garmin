@@ -69,13 +69,7 @@ Copy the API token shown there (a long alphanumeric string). This is a personal 
 ## Quick links:
 - **[⬇️ Install on Connect IQ](CONNECT_IQ_LINK)** 
 - **[🐞 Report an issue](../../issues/new?template=bug_report.md)**
-- **[ Request a feature](../../issues/new?template=feature_request.md)**
-
-## 🐞 Issues & 💬 Feature requests
-
-- **[Issues](../../issues)** — bug reports and **feature requests**.
-
-**Filing a feature request?** Use the **"Feature request"** [issue template](../../issues/new/choose) so requests stay consistent (it asks for the problem and the proposed solution).
+- **[💡 Request a feature](../../issues/new?template=feature_request.md)**
 
 ---
 
