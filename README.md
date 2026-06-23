@@ -1,24 +1,32 @@
-# Pulse for Todoist — Todoist for your Garmin ⌚
+# Pulse for Todoist — task manager for your Garmin ⌚
 
-> Manage your Todoist tasks right from your Garmin watch — view, complete, and reschedule without reaching for your phone.
+> Manage your Todoist tasks right from your Garmin watch: view, complete, and reschedule without reaching for your phone.
 
 ## Screenshots
 
 <table>
   <tr>
-    <td><img src="screenshots/today.png" width="200"/></td>
-    <td><img src="screenshots/details.png" width="200"/></td>
-    <td><img src="screenshots/reschedule.png" width="200"/></td>
+    <td align="center">
+      <img src="screenshots/task%20listing_1.png" width="200"/><br/>
+      <sub><b>Task list</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/task%20listing_2.png" width="200"/><br/>
+      <sub><b>Task list (scrolled)</b></sub>
+    </td>
   </tr>
+  
   <tr>
-    <td align="center">Today view</td>
-    <td align="center">Task details</td>
-    <td align="center">Reschedule</td>
+    <td align="center">
+      <img src="screenshots/task%20details.png" width="200"/><br/>
+      <sub><b>Task details</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/task%20actions.png" width="200"/><br/>
+      <sub><b>Task actions</b></sub>
+    </td>
   </tr>
 </table>
-
-
-**[⬇️ Install on Connect IQ](CONNECT_IQ_LINK)** · **[💬 Discussions](../../discussions)** · **[🐞 Issues](../../issues)**
 
 ---
 
@@ -57,6 +65,11 @@ Copy the API token shown there (a long alphanumeric string). This is a personal 
 4. Set your preferred default view and sorting.
 
 ---
+
+## Quick links:
+- **[⬇️ Install on Connect IQ](CONNECT_IQ_LINK)** 
+- **[🐞 Report an issue](../../issues/new?template=bug_report.md)**
+- **[ Request a feature](../../issues/new?template=feature_request.md)**
 
 ## 🐞 Issues & 💬 Feature requests
 
